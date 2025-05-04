@@ -1,0 +1,131 @@
+/* CSS für die Vorschau Seite / CSS for the preview page */
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 5em;
+}
+
+.footer a{
+    margin-right: 1em;
+  }
+
+
+/* CSS-Code für den Share-Container / CSS code for the share container*/
+.share-container {
+  margin-bottom: 20px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.share-container h3 {
+  margin-bottom: 15px;
+  font-size: 1.2em;
+  color: #555;
+  text-align: center;
+}
+
+.share-buttons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 100%;
+  justify-content: center;
+}
+
+.share-buttons li {
+  flex: 0 0 auto;
+}
+
+.share-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  transition: transform 0.2s ease-in-out, opacity 0.2s ease-in-out,
+    box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
+  animation: none;
+}
+
+.share-button:hover {
+  opacity: 0.9;
+  transform: scale(1.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  animation: breathe 2s ease-in-out infinite alternate,
+    float 2s ease-in-out infinite alternate;
+}
+
+.share-button svg {
+  width: 24px;
+  height: 24px;
+  fill: white;
+  animation: none;
+  transition: transform 0.2s ease-in-out;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.share-facebook {
+  background-color: #1877f2;
+}
+
+.share-twitter {
+  background-color: #272727;
+}
+
+.share-mail {
+  background-color: #b700ff;
+}
+
+.share-threads {
+  background-color: #000000;
+}
+
+.share-mastodon {
+  background-color: #6364ff;
+}
+
+.share-qrcode {
+  background-color: #70b60f;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-3px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
