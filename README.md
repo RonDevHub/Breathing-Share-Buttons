@@ -25,7 +25,7 @@ Du kannst das Aussehen und Verhalten der Teilen-Buttons einfach anpassen:
 #### Mitwirken
 Beiträge sind willkommen! Wenn du Ideen für Verbesserungen, neue Animationen oder Fehlerbehebungen hast, reiche bitte einen Pull Request ein oder öffne ein Issue.
 #### Lizenz
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die Datei https://www.google.com/search?q=LICENSE für Details.
+Dieses Projekt ist unter der MIT-Lizenz lizenziert
 #### Danksagungen
 - Inspiration von verschiedenen UI/UX-Designmustern für Teilen-Buttons.
 - Verwendung von Markenfarben für eine kons
