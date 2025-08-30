@@ -31,5 +31,5 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert
 - Inspiration von verschiedenen UI/UX-Designmustern für Teilen-Buttons.
 - Verwendung von Markenfarben für eine kons
 
-<a href="https://www.buymeacoffee.com/RonDev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/RonDev" target="_blank"><img src="https://mini-badges.rondevhub.de/icon/cuptogo/By_me_a_Coffee-0077b5/flat"></a>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U31EV2VS)
