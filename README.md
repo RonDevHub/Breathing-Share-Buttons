@@ -26,10 +26,10 @@ Du kannst das Aussehen und Verhalten der Teilen-Buttons einfach anpassen:
 #### Mitwirken
 Beiträge sind willkommen! Wenn du Ideen für Verbesserungen, neue Animationen oder Fehlerbehebungen hast, reiche bitte einen Pull Request ein oder öffne ein Issue.
 #### Lizenz
-Dieses Projekt ist unter der MIT-Lizenz lizenziert
+<img src="https://mini-badges.rondevhub.de/git/RonDevHub/Breathing-Share-Buttons/license">
 #### Danksagungen
 - Inspiration von verschiedenen UI/UX-Designmustern für Teilen-Buttons.
-- Verwendung von Markenfarben für eine kons
+- Verwendung von Markenfarben für eine Icons
 
 <a href="https://www.buymeacoffee.com/RonDev" target="_blank"><img src="https://mini-badges.rondevhub.de/icon/cuptogo/By_me_a_Coffee-0077b5/flat"></a>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U31EV2VS)
